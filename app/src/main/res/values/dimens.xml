@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_elevation">4dp</dimen>
+
+    <dimen name="card_title">20sp</dimen>
+    <dimen name="card_text">18.0sp</dimen>
+    <dimen name="card_main_button">16.0sp</dimen>
+
+    <dimen name="card_toolbar_height">40dp</dimen>
+    <dimen name="card_toolbar_menu_horizontal_padding">9dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_vertical_separator_horizontal_margin">8dp</dimen>
+    <dimen name="card_text_horizontal_padding">0dp</dimen>
+    <dimen name="card_text_vertical_padding">8dp</dimen>
+
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!--dimen name="dropdown_text_width">200dp</dimen-->
+    <dimen name="dropdown_text_horizontal_padding">0dp</dimen>
+    <dimen name="dropdown_text_vertical_padding">16dp</dimen>
+
+    <dimen name="microphone_width">64dp</dimen>
+    <dimen name="microphone_height">64dp</dimen>
+    <dimen name="microphone_status_text">16sp</dimen>
+
+    <dimen name="chat_text_size">18sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>

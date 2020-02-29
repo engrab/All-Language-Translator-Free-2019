@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorFirstRow">#AD1457</color>
+
+    <!--Keyboard Color-->
+
+    <color name="actionbar_foreground">#fff</color>
+    <color name="card_background">#fff</color>
+    <color name="card_activity_background">#eee</color>
+    <color name="card_title">#ff8d8d8d</color>
+    <color name="card_text">#0b0b0b</color>
+    <color name="card_main_button">#060606</color>
+    <color name="card_separator">#dddddd</color>
+    <color name="microphone_background">#eeeeee</color>
+    <color name="microphone_foreground">#cccccc</color>
+    <color name="black">#000000</color>
+
+
+    <!-- conversation -->
+    <color name="colorDarkGray">#a2a2a2</color>
+    <color name="chat_box_left">#FC5246</color>
+    <color name="dark_red">#FF1100</color>
+    <color name="chat_box_right">#707070</color>
+    <color name="dark_black">#2A2B2A</color>
+    <color name="chat_box_translate">#cbe2f9</color>
+
+</resources>
