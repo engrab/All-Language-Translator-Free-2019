@@ -26,10 +26,4 @@ git clone https://github.com/engrab/All-Language-Translator-Free-2019.git
 
 ---
 
-To use:  
-1. Visit the raw link above  
-2. Copy all content  
-3. Create new `README.md` in your repo  
-4. Paste and customize with your details  
 
-Let me know if you need adjustments to the content!
